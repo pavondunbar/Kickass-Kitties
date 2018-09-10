@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'kinkee';
+  font-style: normal;
+  font-weight: normal;
+  src: local('kinkee'), url('kinkee.WOFF') format('WOFF');
+}
+
+h1 {
+    font-family: 'kinkee';
+    font-weight: 200;
+    color: red;
+}
